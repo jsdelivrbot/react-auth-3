@@ -1,0 +1,4 @@
+{
+  "presets": ["flow", "env", "react", "stage-2"],
+  "retainLines": true
+}
